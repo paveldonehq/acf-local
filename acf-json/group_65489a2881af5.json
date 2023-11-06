@@ -3,6 +3,26 @@
     "title": "Page fields",
     "fields": [
         {
+            "key": "field_65489ca267d08",
+            "label": "Page Text Area field",
+            "name": "page_text_area_field",
+            "aria-label": "",
+            "type": "textarea",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "rows": "",
+            "placeholder": "",
+            "new_lines": ""
+        },
+        {
             "key": "field_65489a287eaf9",
             "label": "Page image field",
             "name": "page_image_field",
@@ -46,5 +66,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1699256960
+    "modified": 1699257527
 }
