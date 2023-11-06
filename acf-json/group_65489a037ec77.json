@@ -7,7 +7,7 @@
             "label": "Post text field",
             "name": "post_text_field",
             "aria-label": "",
-            "type": "text",
+            "type": "textarea",
             "instructions": "",
             "required": 0,
             "conditional_logic": 0,
@@ -18,9 +18,9 @@
             },
             "default_value": "",
             "maxlength": "",
+            "rows": "",
             "placeholder": "",
-            "prepend": "",
-            "append": ""
+            "new_lines": ""
         },
         {
             "key": "field_65489a162de85",
@@ -86,5 +86,5 @@
     "active": true,
     "description": "",
     "show_in_rest": 0,
-    "modified": 1699261747
+    "modified": 1699263408
 }
